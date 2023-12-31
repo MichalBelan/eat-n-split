@@ -68,3 +68,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+Expense Splitter App
+Welcome to the Expense Splitter app! This React application helps you keep track of expenses with your friends and easily split bills. Here's a quick guide on how to use the app:
+
+Features
+Adding Friends
+Click the "Add friend" button to open the form.
+Enter your friend's name and an image URL.
+Click "Add" to add your friend.
+Managing Friends
+Friends are listed in the sidebar with their names, images, and balances.
+Click on a friend to select them.
+The selected friend is highlighted, and additional options become available.
+Splitting Bills
+With a friend selected, you can split a bill using the "Split bill" form.
+Enter the total bill value and your and your friend's expenses.
+Choose who is paying the bill (you or your friend).
+Click "Split bill" to update the balances.
+Viewing Balances
+Balances are displayed next to each friend's name.
+Positive balances indicate that your friend owes you money.
+Negative balances indicate that you owe your friend money.
+A balance of 0 means you and your friend are even.
+Contributing
+Feel free to contribute to the project by opening issues or creating pull requests. If you have suggestions for new features or improvements, we'd love to hear from you!
+
+Happy expense splitting! 💸
